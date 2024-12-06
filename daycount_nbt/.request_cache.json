@@ -1,0 +1,169 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"271865b8ca01e6123351fdbd6672309f5865e64a023be53b57734117606abcfa\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGMx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "79595271": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.2.1",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1520,
+      "hash_md5": "8c1bb3946f4aaa80165a0297b00be9ff",
+      "hash_sha256": "b0e9f497acdd15f8a3d53593f8643ba8d7a49bf6b90daa99eec588411f0cdbcd"
+    },
+    "48907358": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.1",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib>=2.0.0"
+        ],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1360,
+      "hash_md5": "6f0436e24fe8e34b2e701cd1e3400102",
+      "hash_sha256": "c628dfe7984490d2feeb50a5f180264eea67ada2bc237e3e412fb2a97199b875"
+    },
+    "46000802": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.0",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1343,
+      "hash_md5": "d8455bf641fa5d9f3262807c89b4660a",
+      "hash_sha256": "470a439ec4a9608e0fa668877eab0716c2ff25de552fe9d2debefbd0089c330e"
+    },
+    "44454285": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.2",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1353,
+      "hash_md5": "c3719cfc3cac03b905fea9576e29c040",
+      "hash_sha256": "fe84a8973ed8eebd58e2edeffb3d1b28e6b8925787cce253569b9fee3be4c4e8"
+    },
+    "43476234": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.1",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1384,
+      "hash_md5": "a0389207a80d2f794c9d9f6f262d1617",
+      "hash_sha256": "da23fac53e0de0b70f6103d694b4e2051af977c026bedb5f6ce0becd410dcbbb"
+    },
+    "43245713": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.0",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1553,
+      "hash_md5": "963b5c2bb2dceef6d6d1b458788e1031",
+      "hash_sha256": "8057131fc8cb243ec96c0a32e297ca1f92abad6366c23041e78b1b9be9a336fd"
+    }
+  },
+  "repos_info": {
+    "etag": "\"868c07db1a66cc700ae129cb28762108d2da9f8b583a41892236026c8d628ee8\"",
+    "data": "H4sIALKdEWcC/6WYbW/bNhCA/4rhr4stybKdxEDQdesQYGiypHC3IssgUBJlsaZIjaTs2kL++47UiyV38+Lwi19OvIenI+94x3JI4uFi4PvTq5l76V1eDIaMxzgw0uHdh1+2v9FfaXR7vUdfPm0itt7f7R+n98v3/t0yuhnq4SjDemyMdhEvmBrd/7TU8qSgNGgeIoq/+RN/7hyPygXZIKXHJIhKDBK+ZVjA/3JI+YqwrrZWMIZNZ77re9ezY2sf579/uafR10fvbv9+f7dce1oFwQxIBIWgelSqVC4XjlNJ5XhFVFqEhcQi4kxhpsYRz5zCaeZ4t7mZaspK1JxqMi06JuakplUIQEqna3uqMnpsRkehOzThlPItAIJzJnFatQODsNVbGKBWOlylGBwHz1+MC4hUZxpkVErzBY4zFAlOFDg+j1MrgUl6e7yUjsA5r3BFKCNBckU4O9O4nqpmcbFCjOzRG1igahDarjNVjYrWxRvYfmcqVzqlYwIp2r1UNkSYbMDFbwEeKWue2uUmij/DSLPv4TvYELwNmid5EVISmeUgCgcozkzkmph+ef3O/y49xLhdIBPhP3/4NHgu5n48eS6mOJk/F0niRs/FlR9ePhczPwbJ/NKN4fcEefA5n1+BxPVDGJPELnxeTWH8fKZ1r2fJ9LnwXXdShYtYd/LQaaeZNftvuzXr//x+AuEYfQ1a450NR6uX+rMJvgiCG4VcIMWFDbjHKXt/zTwKo8yGb/RNzuTcypNG3xwcUhb4dRFximcwsg07VmRhnR2t0YeAQ1KSFcPYhtYySqdN4KFALEqtsA2irH9Vq41WVouNqtwZUh7acGCYYxilI1NUH1kqsLROUzWiDxU4sYVqxAGqhN16GzOFWe8GCYemgrW3oTYIp2ygFLFVgVZW1JbR1AMrtMfC0s4aUmU5pgQJC+skd8B0So3Q0tQD5bh+sadWR6VxQZYRZff2htDf9vZYvU+/Q2uBZfZsEL2cXCX9+pF91v/XOeq2wXajaYRT/pAjlTYuyZHAdh7RBKcMEVRh4/G4TDGqyoAMC7sIrgDmrBJRCvWiBatsEFD1ZEiZ4j4xZsZQ7VOOYhtLW0a7H+yP/97659Do2iCNfo+YEYql4sxuhVpIj824IgmJXtXinML3OOU7SViELxClF7DlFIkI7GNoIesTI8TU7rjQAHgNlOG6waEY2R1sDaJ06so4xjnlO9ss1KGYIBYYKeilkNK8iTvxRu5k5HpLd77wrhfe5Mn0U3ncHzWFISPvaulOFv5sMXGfqn0m0+4gf+TORt710gXOfOFfPjU5urYefr6iy9IvZo4hmXYUfzyoLU6qRRR22LmdXTvnhr2lKUx5hnOoHpprGEn2+vfM7RcTRgfkngfyLVJQtR5LmzpEkx52Kq2OzhTJoIpzkCtR4FqWC/4VR0p2mkQtPiSY3ugtWZMjfVPxHCkTGRVQqesLiMOTqn1sTTUpQQje3GExyBiHzBt3FAGHQtoT8Ryz+nV6ROjXMZPY3LRBg2gWPqcjf+x2b/Vu7z8PbjHDAtHBg2nyBx8rxcGmHirz+Ft9KXb78LEBnA6henLpdKfs3uRF8+Ut/fr0x2z/tFzfDPUdAtLXUvqMWENiOXiWyEDhLKf9W8QtDutaJdBtEE8SqNj/Lojo+UbxnETa8X/+Bf82RJKQUKJ2/SuNqhmvvNbxZi1pdlazp2KcoIKqoGqPNClDxOyrHIuMtGtdDnu3JBfVOIV6Ih3zXXsFqXbr4TmltSteTNed5UEVkoqvMWsihGG1hZforX+3mG3lL/8AURjbZBAWAAA="
+  }
+}

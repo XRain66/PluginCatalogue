@@ -1,0 +1,69 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"62f5b46c63d4f9f64a86b76af894febf6c1417d391a722bb07955d9f0c21a6ca\"",
+      "data": "H4sIAA/IT2cC/+2Za2/bNhSG/4rmTy1aWaLuNjAUbd0OHuAEWZ1sSFoYFMXI6qgLJMqObeS/75CSbMe51rH3SUCCwPQ57yGPqJd8kKtVp8xZp690ppxnRV/TcBZ1w4hPS79L0ljLaZYW2nj47TyJ0kT7jBkpGeZpDt8wigtaaJZn65ZuoM57pYOLgvJicjBNrRIU0mXGUhzsSlejxevkVx8SHNP3DPuU3YpaUx6z3UpbFZ7U5jjUZqhrdHWhFAWg0ZQTDSr5NM1hbNVhaRglosJXzBhN1E85xXy6TjK8nut5ugOfkzSgEznYGQ3OnIt/Thj5ObROx8Q6HXw0ZONnmOP8XuPlaNOdsqA5SRNOEy6XUWpNjQ+z3y2hEua1TlVMtv3JRykkC+3eAp7p373465SxdA5Sk18up61zN0JREu4tBLkrLeVTCs2EILkdwqjg+0xN5q3kH+iolCqguzkN9hCrM2Fy8wTmtZL7vNIs/YLkUcZhS+4zzTv5QjDNQ5xES7yvIORLHfkm7pEv84QAncFe3UehSlxpWR7NMFncVrMhNJpB7/dW3VEQonyRUaFyDuHydYG/k1lE55Pmm6z0WUTkc4o4neAglm/9NWYFvd19uYlzHl8Ul39/XV6Oz6yT8Ud9NBjeyEI4nAiXEnEbe4E9EVI+gQnHEY+Kqfg2xgWvJtPEf4vijFFl41aKUBARQY6veTMb+JzltDayrUEiVg+rxiKyY4CRqbqnGs5Yt/qm0TesSyEl11lMH4pDZt/uwc/l5oiAiKsDnD2VmGaZpuX1LGPjuPXAbn+/LE7Zn8z/42JKjItPxDxhweBsOVqegZmeLe73bFNTrZrejUkgeysPCwhMSsbWpxNtnb119tbZW2eXzl6/ket4nGUQL3uvpYRTrhYcysf17uEyqDaSoJJdijFk95BwsgD2h7wDk7RMhMcajjSRR/259l3nsro/B09GuTLKz9O5WOi61p634Ca/vgprT9rp7Y/qKPPhmezNDnX+1t17GWWvUqzztxT9NFgIKVU5z8BR4TEpPFVGnwd/KUYXvVN8yuHoVXiOk4LJB62Is4B8z78nHdgSB6Etw7BMWz8sbVWaR6OtO/LHoC10h7aqci1ttWdyeya3Z/JLaWv0c6iPlufzB2gLvZq2aoXX8BYaI6dvAnI9w1tVXK/hsqPwltFzDdPwNp5bD7yItxZgpYvRcmg9x1uo5a3W21tvb739/+Ytz3Ue4i1kIfc5fwbfRU/x1jrKPBpvoUd4Cx2Lt9DBeQvd5a2asHQlw+RfgK6MleD4ynWax5grcxBXclqUjCtBVGQMLxRYfprDBhPkJX5/u4piHNIfb9YoA11X5dhjpt5YuoZMHY42z+upCLkWvbaJamPDUy2HmqpvOki1PWIR23XgjPK7WRK+bcoeCPoM23CRbfQOCX2N5pGgb0f+4NAHL5SuW7q7OeXrgi32tVeD9mrQXg1ehn1DNPpJbk7GQ3sX+7YN5mXgt52xH+jpqm6pujtGel/v9U3jMdDbikOob7pHAz3Us1zDc3trw2wGXgJ6X+yTAVmcDoi93aVNtW62aMmute/Wvlv7/kWy4/SGa3DPh6hnWM7z3Af/c4a8Z/xX+KrxMMjtRFnHAbnmNNHuGuZB2W37xDoUvW1rNvwGmRm8KT6jFawBz2Eap4mS5vK/ZxRILqTBG73rdJGKWTbF797CUv8DHPGskp8oAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGQx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "43348942": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_calculator",
+        "name": "Simple in-game calculator",
+        "version": "1.2.0",
+        "link": "https://github.com/TISUnion/Calculator",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "simpleeval"
+        ],
+        "description": {
+          "en_us": "A Simple in-game calculator",
+          "zh_cn": "一个简单的游戏内计算器"
+        }
+      },
+      "size": 15912,
+      "hash_md5": "1023b62cf3766291993506bd36773c38",
+      "hash_sha256": "8df239b761e9bdfd7444a7c774ed95ec647fa714fae67b6608e284add70b2c28"
+    },
+    "42972328": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_calculator",
+        "name": "Simple in-game calculator",
+        "version": "1.1.0",
+        "link": "https://github.com/TISUnion/Calculator",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "simpleeval"
+        ],
+        "description": {
+          "en_us": "A Simple in-game calculator",
+          "zh_cn": "一个简单的游戏内计算器"
+        }
+      },
+      "size": 15876,
+      "hash_md5": "02590994805efad2dd42de148c126f8f",
+      "hash_sha256": "2c3db089423b131aa96698eeaa36a2a61ed2b88d9f8f61b5b939b5d0c319c3f8"
+    }
+  },
+  "repos_info": {
+    "etag": "\"ff76ed81928601d3c1a47a9c836556df69de2833747db2d7e0fcd8f1007216ab\"",
+    "data": "H4sIALKdEWcC/+2YbW/qNhTHvwri7QqBAO0Fqbqb1g11un3YxtWumKbISQxxcezMdmA04rvv2HFCwl17S/JuqlS1jeP/zyfH9vE5zrok7M467sR13avp0L3odBkPsWdau3c3P+0e6C80mE+f0ZfftgHb7O8Xt/u7p2Byt7i97uruKMa674+IBilFigvdukop9YpXi9vfPzPCmVPvkwiyRUr3WCEqMbTwHcMCnrMu5WvCqlotMEaNJ2N3PPgw/crS/cNmul+6P6foSxKFc7r1n34d3t/cDu5u1hMtRzAaEl4qqFZESiVy5jh5q+yviYpSP5VYBJwpzFQ/4LGTOsV4H7fXY01ZC8vJB9ZNp8SEWFqOAKR0qt8RqZiemlERVLuuOKV8BwDvnEGcUnZkELZuwgBZ5nAVYXAcvD8YFxCpzjTISDLzBxxnKBKcKHB4HseKwCS9VA6ZI3DCc1zqy0CQREG3M42rSTWLizVi5Bk1YIHUILRdZ0qNRGvxFpbfmeJckzlmUwX7Q25DgMkWXNwEeCLWPLVPzH5+qLjHrH9QeluCd17RI0l9SgIzLURhD4Wx2c1mnx/evgNOAkaIy2nSwh86ksQJxR1YoxBpOkE9AnGxqYSW17/duP6lYTXpW857EeAYtcZs8L45RYsz/bvYPQHsTuRzod82x9YoWe3RjKIwipvTjdoEPM5beNCoTfyXMsVvW8wv0wxElvuFpbFvw1pL8HGfICnJmmHcnFUSMqeMur5ALIhaQAtAZv/LZxitW0wwyoOdT7nfnAKdHEPIHBkhe8Ior5VlmqkBdaTAq3ZIDTgilWgzx8ZEYea4AMLppmC+mzMLgJMVSIrYOkXrFsySUBzaa/SMRSsbLSKPY0wJ4qctw9gRUskF/FZmHhmn6UVbZlIcnNA7JqrNdxt9fZG3hep1+RVYN7SKjgWgFnHzgG5ftY3o/zmCzeXbLS0NcLLvEqSiwhkJEriNL7TeyXwE6VC/388ijPJjPcaizV7N5eYMEkEE6VtjUlYAIH+JkTKZ9sqYGELqTTkKm1tZEso10PY4r815ArVnc6BR13gxoVgqztrMS4mokRlXZEWCN9UZL8NrlOyjJCzAF4jSC1hkigQE1i1kyPY08DFtcxRoOXwCpNu2wqAYtTmwCkDm2Lw2xAnl+3axpsIw21VgpKCQQUrT3IE76A3GvcFwMbycuePZYLo0RUwS1nuNeoOrnjteDCez0XQ2ulrma0tG1U7D3uBDz71cDEezyRR+lkUUtrbDv98sbfRHmSNGRhXZ90fR7BVRQGFVnVdKleNt2fk1WMRjnEA2ACoGO8VUeM/6aTSspwcBT5n20giad0hB4nnSWOQVevzHvYrs3QiSXr6noV2JFNu2RPAnHKiT1mMkqTXvyIacyE0CcywHjZjIIIVEWxf9xzd5tVc1NCZC8OLeyH60jY5hRQg45NNaE08ws19TEgf600mAmcTmpgtqOjPjCe2N+oPqjdr8/nNnjhkWiHYeTUHd+ZQLO1vbVSbhP/Yiav74qQC8vm/s4NKpDlm9SQsuF3P6tPxj8rxcbK67ul5H+ipIHwUbiCRHzxLpKQwleP0Wb4d9m4R4uorhqxUk3n+nRNR8o3hCAu34P/+Cpy2RxCeUqH39+iCvnvN5qHjT+rFYV7ZDiFcopcrLyxsNipFUOL9sxCIm5WRn3dqVhJ5kRJhCtSa916sGC5Kv1uN7Sq0vDqZWjhMv346KbzArbgdhjSke6wUMNihijM8OJ7dM75ee75ee75ee/+9LT4bVDsJZ7WypVqpF+/DwL0+i27GWGQAA"
+  }
+}

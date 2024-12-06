@@ -1,0 +1,46 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"38a80a3d7b9bf538452117f37915c376fa2ea5b4bd5bc66751dd749b01523a59\"",
+      "data": "H4sIAI1qQGcC/+2WXW/aMBSG/0qV3RbifAFBmqp23XaxtVOnbpooU+QkJnh14sh2wgriv+/YSYB2WitKr6ZKKCj2e55jH9tvfLOyKsGs8ZE1V6qUY9vGJe1nVM2ruJ/w3Bak5NLGjPz2XG9gf8BSEXEtcCFnREAvI1gSaQdo6Lq+E1jHRxaWkigZvSjXbqAaX5WM4/QhvmmVh6dYnRQ4J8cMx4Stdb65ytnDbDtZnuQrnNk16juaRVOgdAl1qSo15wLaVhbjGS10jg640fuBhzwn1PqCpyQyjdbF+dXg+49Llvy6ci6Wp8uL61uTAtdYYfFX9U1rV55KEpHwQpFCmTlUdpfjpH7ra0omWk6TzNT90fXUyG2x96ibls44Y3wBgGifJPYmbMugRfYcBoStbK7mBAoH/WbdMyrVngMyISvzB4UzFAlFFCTdj9MGwZAWBYxmZbZyg6timQhaKsqLPQd3L1SzuMhwQZf4GSwINQhzxPYLNSE6ltSw/fYMbmJWdilojZO7dTOGhNAaSvwc4INgzVN3JdGAb6A0+x7+o5qSRdT1lFXMaGKWgyoS4TQ3J3eGmSTr+6f06/vodnH+5eOnzykZ+edns0ltcuAs0jajJZ03wJpnREUwyJwqKue6Lzeeons7dStOBZ6pLie8l4K0hrPTmAiCFcwNa6XlItfpOaiH/Gs0HAfwQxONMrOR83/pwnHgTLa2DoqbF/pmNEDbHzghGgzCrd+1DQ8qebpbyXeLy7PL3brcT9LTRe2jfp6kpnrGzUFWVIxtPiHk1XhfjffVeP8j422P1kaPyxL0ps42TxRRPanAE/N2fygjas0gbbBL3RZ6+synsAnMVTPhVaGtMQjcp1w1HDvDSXNLTR9VhUYVC77Qs9ykOuCe2THMZdN+xA/XP5uvTYwZO+iW3jI2t9slLQ9mtowNM+bpnYa9eXM0rdKRl8KTjBC8DGM3mVY+QWhaDWLXgaeXIt2C/amYFj3QBOEQAkbIG0yr2Qw5MPc/Jnv4rPIMAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAHRiQGcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "46190669": {
+      "meta": {
+        "schema_version": 4,
+        "id": "faster_transfer",
+        "name": "Faster Transfer",
+        "version": "0.1.0",
+        "link": "https://github.com/alex3236/FasterTransfer",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "speedcopy"
+        ],
+        "description": {
+          "en_us": ":rocket: Make web? file transfers faster!",
+          "zh_cn": ":rocket: 让任何 MCDR 插件的网络文件传输更迅速！"
+        }
+      },
+      "size": 935,
+      "hash_md5": "da5c83e1bdea71bf1beb8eebcc6af168",
+      "hash_sha256": "157261d86535461102b3f6adad8a0bf621eb917eca33f7a8e06c7959bdd063fe"
+    }
+  },
+  "repos_info": {
+    "etag": "\"6b53978f01a412c3a66ddbf0626266492bb7e72095a073e443c260909deb8789\"",
+    "data": "H4sIALKdEWcC/62YbW/bNhCA/4rhr0ssv8RpZ6BoiwXLhyVdWrjbkKEQKOlsMaZIjaTs2oL/+/imNzdw49BfEovUPTwd7453LPs46c96V6PJZHz9ZjS96PUpSyA0o/0v4Wp58+ftH3cJbPp6CmWgx39HQgKfc0TFArieWRSEhNU0IvB9Mp5cBz++l3O8RlK/tUBEgBphG6qmZr2yT9gS07a8FrDqTSfDyejXA+3ubz5f//XPJxI/fR7d7z7u7uerkRZBagXEw4IT/VYqZS5mQWBHxWCJZVpEhQAeMyqBykHMsqAIqjXer99dacqSO45dTA8dEnPsaBahkCJo657KjByq0RJov7pghLCNAoSnLBLUYg0D0+VrGEqsDJhMQRlOze+NCbCQJypkRErzTxnOUIQyIofkNI4TUipp99iXAYecWVwRiZjjXGJGT1SuI6pZjC8RxTv0CpYSNQit14miRkTLwlq534nCVqYMTCDF273VIQa8ViZ+DfBAWPPkNjdx/FXYoNUS4RrDJqxm8iIiODbbgSWEKMlM5JqY3r/c859JEAnUW6SFP/buf7v50stJoXODcXK+amWP459qLH1sNU37mb2OQgJD0KgVbP1IGlDqv1XgxCowUcQ4koz7oTuksvNoVpKAMr8VDMHkPMY8LWoIJvULUcDLfPo40YBEHTq0yCKX4c4Ab8IGCYGXFMCPV1PKoE7EkZqMU09wBSndL7vzaOm58cjmwYiwyI+kXgwMpQxEitwBJENvDTVXQ7pYDgt/rIY0WMl9996oys3eV1B1EErlB37cChKUFZYguizQ0pNbU6pzfol2wL11dRibA6nkOCrOkAIbUKuMiLzVbTiH1ck5uPYgNIbIMix9bWAY3UA4B1j77Q9wPeCdXStIJ2vbg8FNneNkeHYV1x74u52GBOUvOZJpZZgccfC1i2YEZYRUxTUYDMoUkC0bMuC+cW0R5kzjcaqqQy9aWUFUrZQhaYr5hVE1UdU9YSjx07am1L5xjnKh4wu5am/9oIbQYWaYgJCM+u5VjenQKZN4geMXtTbHF+iQyvcC0xguECEXygEljrHya9U8ulMlAuJ7pGiE+hSUgWtuCCDfA7CClIGrrRPICdv656cWx4Q2ByRVL4WkJo6H49HlaHg5vJoP38ymb2fDt4+mn8qT596azofj2XQym14/Wp8T6ZGXrh6rDO70Vz9f1GXpjzNHlUhboh8awdlPBGOivO307q5ed01f1xqmLINcVRtKkqpoMs3nTj+Np93yI2YF1VYbquENkqroPRis6hatw8NWpvaITZEIbeyrcckLcGM5Z08Qy4PRJut0hjd4hQ/ETYHUtKxGGIu4UIW+vodoZmw32lY0w5yz6irLfbTLpklLUOFQRDpDLAfqvqb76TgGKsBcuKle0+x+Ti4ng2H7gu/209feLVDgiPQeTK/fu7OCvbV7VeTJd3c3dvtwVwGOx5JbXATtJdsXevH1/JY8Pf493T3OV+/6+ioB6dspfXSsVJZpLItFKCHLSfcycQORK2hC3UWxxUIV+v8VmHdsI1mOY234f7+ppzUWOMIEy233ZsN29tZqLWse+JV7TGCBCiJD21ppUGb81wQy8AzXm132O7clepMRphJ1hnTstxXm2HprM0+Is8Xe9O9ZHtqwlGwFtLqwpCA36is6DtAufKvx0f5/pSUOtwgWAAA="
+  }
+}

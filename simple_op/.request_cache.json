@@ -1,0 +1,65 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"034a3faa21c73d6872472ed460d3dbf965419fec1550186a0767952a2b56305f\"",
+      "data": "H4sIAOnTUmcC/+2ZXXPaOBSG/4qHm71owbJkPuyZnU5a2p3sTGCzJek27Q4VtrDdyJbHkskCk/++kmwTICxJCOyVLzIEcc4r61h6jx/4tmzkGW24RiMUIuWuaeI0agWRCPNJy2OxmZGUcXN0/vkqiVhifo7ilJLhH3KcEswJN+1eG8Bux2m8NRqYcyL4+EiKZiGnhPOUMuxvCxej/DXiy3cJjslbiieE3quZQhHT7XnW9PcoCxyYM6sFW0DpRL5UqCZTpclFyDI5tmxQFkSJ0v+EKSVJ831GsAhXSbDndHs90JHvE+aTsR5sXPQvO9d/Daj389wejjx72D+DuuQzLHD2qOR6tKpMzknmsUSQROhF5GY1x7vZr7ZSCbJSp5hMl3zvTVSS3Hy0gCeq9yh+yihld1Jq/OLpzFXug1CUBAcLydylyURIZDFlkN4MQcTFIZem85b6RVZUS3FZ3Yz4B4iVmfLi7hJ5XUu9xwvNfMK9LEqF3JCHXOZGvhJkWYCTaIEPFZT5WkefwgPydZ4SIDO5Vw9RKBKXZppFM+zN74ur8Ug0k7U/WHVLQYmKeUqUypUM18dFvo5nEbkbV5+k+YRGnr5PkSBj7Mf61E8x5eR++3B7nav4mt98+bS4GV3ag9HZfLD42tYT4WCsPErFPdiL3BMBEWN5wXEkIh6qT2PMRXExVbz638/wVFTzyvdpRkrLWhv01Drl+rCKbEAArSboNWFnZEEXIhd0bpSUXhEPd8Yh17ZdBG8e2oCM+Pbq7lJImTZCdtfpoAdnLQe26/hxPqS/08lv16EHr997aED9/uXiYnGJhqOvi/XaVHM1i6K2Ys/XtdOtQAYkOaWrzkNq566du3bu2rm1c5cnchWP01TG69qbzBNENLmQ08fl7hE6qDQSv5BdqDFLHmXl0HJ76Mdbj+WJMlbUbjt7TVmbLezdFI/G/r4oBHTUJGN3ap2ruQ56xK2yy+dcc6eH3v9d9KeJvBEHokCZvfY4vYjSV+iV2Wt6E+bPlVDTuEqlhcr7YghmXHzo/2nAlvXGmBAhe6khMpxwqu+soczf+559TxpyDxwBmyCCNuweE5sKxRNh04b48bHJ2sCmYrIam+rmWzffuvk+F5sufl7MB/1ztAObrJdgU2VSRpFoTFmmWwN8LU/BEUBuG7qgu5+nqriyxZ+Ap6DjdNtW78Fyy4Fn8dR8OLpFg9FH+794yqp5qrb02tJrS/+/eQrZu3jKQo79lCkDFzn7eKqKsq0T8ZS1xVPWaXjKOjJPWZs89SVkhs8IT34RBo1uiZFi71bCVUpzafWqk8ZYKIhSfx9YMo0CYxpR4ho/MqLOtxj7hOL5jypmtEZgktBIEqiWafA8TVkm79MRYQw4x4Yx4JwQxsDpfsMCj2AM1L9h1Z277tx1534hjJ3t+g0LvATGivgVgxny7ZujcJjddhF6BofZjmuBU3KY3XY2OczWX/8+l8P6V+1dHNZK5zV+1SZem3ht4i/EL0H+EWZKsYx6CrgQQLuAC7af8l6n+g5sH26pKOdEuAXWcEtZ5XEpCxyZssAmZeHMC9U20F2RM8pKvpKr+Bf6aPuP0ScAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGQx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "43347963": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_op",
+        "name": "Simple OP",
+        "version": "1.2.0",
+        "link": "https://github.com/MCDReforged/SimpleOP",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "!!op to get op, !!restart to restart the server",
+          "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+        }
+      },
+      "size": 1978,
+      "hash_md5": "70520bad1e6e8cf7a04b09b79967c3b4",
+      "hash_sha256": "708ba752e7b378dcbfcfa7eae709fe7561e86e892c9c8307dcc4fefd5d4340b9"
+    },
+    "42997518": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_op",
+        "name": "Simple OP",
+        "version": "1.1.0",
+        "link": "https://github.com/MCDReforged/SimpleOP",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "!!op to get op, !!restart to restart the server",
+          "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+        }
+      },
+      "size": 1934,
+      "hash_md5": "4700f6e6eb77625a33db0c4cc44d3928",
+      "hash_sha256": "e07a94b80429a7a78d3f0062eb666db17d508baadea19127a1f008f6aa9df917"
+    }
+  },
+  "repos_info": {
+    "etag": "\"f915791c0d4476f9c9f8405da82317839730e397710d942e07650f66ab41e8f5\"",
+    "data": "H4sIALKdEWcC/+1YbW/bNhD+K46/Lonkt7wYKLoP2YoOSNOuGdBlGARKoiXWFMmRlA1b8H/fkXp3mzWmvg35klhHPg+Px7vjHYsxicfL0XQxu57N5v7V+WjMeIwDKx3f3/2yfaC/0ejd7R59+X0TsfXuw+P97H5/79/f/flmbKajDJu5n0kmKH74aGSrnNKgHnh8//kPRjjzujOEJBukzfgKUYVBwrcMS/guxpQnhHWRBmAVmi/m07l/c/uNlruH9e3uafprjr6INH5HN+HXT5MPd+9By2Rh4AhWQzLIJTWIVGuhlp5XStVlQnSah7nCMuJMY6YvI555uVev93bzZm5YElnxlAsb0TGjIBVbSQGUyuvuI9UZPVajA+hOXXFK+RYIglMW8RpYy0FY4sIBsMLjOsVgOBg/WBMQpU9UyEIK+w8MZ1kUGFHi+DSeCgQqGVc5FJ7Egpd0eagiSYSGaScq14MaLi4TxMgeOXAB1FIYvU6EWojB4g2434ngElN4Nqii3aHUIcJkAyZ2ITwCGz69EzaaHzrmsf4PyGBD8DaoZ4g8pCSyx0I0DlCc2Wi2cX54eQT00kWMm0MysLMzLkaajxKsR1ycj87OJDbeoY2w+ZniESi3gaxiA0GuO9nmv81hT+P7mhieH1nzGbhnsYZkjXeuHAZamL91KEUQqijkEmkuXUl7HEXv066hMcpcuS3WZj7OnS1nsfYaUCrHL/Pp57gshWqChuVZWOW2QbRtqCClSMIwdmVq8IXXpN1QIhalzpQ1vKh+laeKEudDRWWmCykPXTlgimfxhadSVF0uOhiglWE08D6hxKshhAbeEmrpfq5WPWnPtaaDTKXhjF0Za7hX1IQUsSRHiTNjg69v6QTtsRygX0VQZiqmJQnzQYmqpehc/OEAFVuG40piGKOob0iYmxHtvmOL7rv0MErjh9/QGsGA7FfDe/m0TNbV0LBs/V3+qlgf4kwG7hU/CaTT2gwCSexuBYP2ihBBrXN5eVmkGJXXdIale1SWYHu3yCiFysyRp6jhUIlkSNsSemXVi6GmphzFrho2+Obch13PvXMW0E660llsjy0jFCpEztxPoyHo8TKuyYpEL2ocnqPucRRvFWERPkeUnoNbaRIR8FNoyqpMH2LqnuYNGNSHHr1qFyhG7hdRDS+8qiqNsaB8NySjdBhsYEqMNHQkSBuuqT/1L/z5hX/96N8sZ/5ycf1kuxER92fBlMXF1H+cTJaLBUx8Kv1Jpd1Jkwv/5mJ69TiZLefz5Wz6VOfZSnP4+YMexWzIXh8q7YB+biHLZyERBU86pR9q1tqwU9uolGdYwO0OGAZxYVu0vfm66d/2Ec+ZMc4MxFukoXI8EtZlgln8406n1dsGUkEZviDXMseVTEj+FUf6SNqmjJ54S9bkCG7rkbZ3s2CiohzqZNO0tyNlc1YremWDXUpev/tUe66SYNwBAh0KaU/EBWbVbhpG32ydRJipjgmReSoxGXUNodlqTlSgMZi+/8q1xWF1ewemyOerFdSn/+RE9tbWXJDIbOyvv+FrQxQJCSV612+vy3ay3GdH20rP+tyqE4vxCuVUB2X9b4gypHTZGwssM9IYsxj3WnZjRESYRj2RCaGuwpKU3tCOU1rZ4mAbyEwEpadrvsasfj2DM9Q8Mw4COmhilS8OR68wr4+Cr4+Cr4+C/+9HQYb1FtJZL3d3m7taPjn8CyxqbsKyGAAA"
+  }
+}

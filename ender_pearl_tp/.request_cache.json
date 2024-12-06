@@ -1,0 +1,71 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"757775a6917569630d506d001178b9314c2c7ccbc7efa807f650feea2615b799\"",
+      "data": "H4sIANkVTGcC/+1XXY+bOBT9KzRPu1EJhgAhkVbV7MxUrdS0VWeqStOsUoMNWEMwApMoE81/32tDyEfbtJlN5mV5iJOYc8+xr82x79dVp8yTzkjrxEJkxcgwcMZ6ERNx6fcCPjNymvHCGHOesDRCLrKM65TQXP9IcZ7otx/18eXVJ0AlFBe0MEzPdS3bsVDnpdbBRUFFMT2PgFGxS50ySzgm+zpVb3FCrdWrFM/oywT7NHmUwrGYJfuyW3K/LSRwZKCe2VNZYwToGmmZxlLEPIfOVSfhEUul2hb1JsYeDF3bcj3oSDmhU9Xb+Ty9j64+XL5/87d/oVZljgXOv1sV1bvOVlnQPOCpoKlQMymNhvzV/C9b0kR5TVSpqHU4uNCScyf5x2VQokOeJHwBNNMjpYwmckMDj55IA/9WBhcxhSwCRG2FiBXi+GGpqJX6gjwqogJymlNyNFUdBwNbpDCmldrsFWPpF0HOMsF4evwQd6IlHc8jnLIH/DQ6iFYs6lU8OlpFyXA6h615fHwVtjKynM1xsHysRhJQNoeMP5FzL15SimVG1asHYPViwPd0zuhiun6SlX7CArU6TNApJjP1Xoc4Kejj7vv76Xp6v7j68P7m5os3tt+9cflbpYGjqbQjCWm8A/ZARMUUBjpjghWxfDjDQC0pa/C8QZMch2KtCv+znNaWtNUZ5BQLmB2WyI6FLFs3Td0yb01rZPVHtnknqdR8ivgnuD4aIftucyQA4uuJD56K2LCQh9yhjfqNKzY9e1m92M7q+K4c+9tJ2tOqctabBUStpzoBAJaWSdKcP7S16NaiW4v+31h0/fI1eJxlgFc5N3ggqNALAd45q3eMUKDaKkhF+yD7hsi2pBnDplDX2ICXqfRQ+1fmOxw5w7vq/kt+ipLWW1m0n/OFnGQjdIKL65qrur0aB1zz8Z/qePJxkpykIqi5NvfmB5adjLzm2pD7nCwla7f7WSVbE1yrptftTvJJqms3ZZbxXGjXaSRPQg2nRLuMWUoLqt2wGeyNkFFSYS8I0bIEL2mu8RQGQrUgpsG99scipqkmILuKCjSUhdXY4s9NdIPxsYz79uIFFZn6802h5KfbfQ3nEwwCpxGFY6nbHWlPWGzAZDinkAs5355q0VpD1/WN3KR03dCG1vHRpPTMsL+bIvnECqHtIxOeW6FsfUhK6dheMCkHvgdxduj0oaUWkXhv0MSS0AekhQEz6OMh/PZ9F9qB5UEP9SWzFyCJtAEZhsiTbBb0DJFUdKw+/HbMgSv5ibvL4zqhq6KGP1Lc4XEJhbY/DGW/TSqt7TXY8KwzA/OUejSQrevZMp5464x5vsyYEzrOKRepAzZ1+vredh3bNM9Y31cCz1Pf72idub6HNdmu7yvptr5vL4/t5bGt7zf1/e3y6vv6vvaO36zva/R/qe/RremqyyM6XN9XOHPUd56pvh94HnLc7fq+7jlc31+8fjhc38sTs63vW4tuLbq16JPW9+bAsn9U35sHzXcAjjpC7qH6fo0y0XPU9+CPxgHXPGN9X59m56nva/J1fa9rb1MmtDoBPZjWvxBt0eMiHQAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAJ4wS2cC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "208069403": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ender_pearl_tp",
+        "name": "Ender Pearl TP",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/MCDRSimplePlugins",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0",
+          "minecraft_data_api": ">=1.4",
+          "more_command_nodes": ">=1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Cost some ender pearls to teleport to anywhere!",
+          "zh_cn": "花费一定数量的末影珍珠传送到任意坐标！"
+        }
+      },
+      "size": 9042,
+      "hash_md5": "c30ba2090b7b66fc3e9d298bbb372c68",
+      "hash_sha256": "0656c082f3a68f530568bd4cf9ad01b1b59daf1aed24228b30f6bf741a96bcb2"
+    },
+    "207880563": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ender_pearl_tp",
+        "name": "Ender Pearl TP",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/MCDRSimplePlugins",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0",
+          "minecraft_data_api": ">=1.4",
+          "more_command_nodes": ">=1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Cost some ender pearls to teleport to anywhere!",
+          "zh_cn": "花费一定数量的末影珍珠传送到任意坐标！"
+        }
+      },
+      "size": 1724,
+      "hash_md5": "f49ee2ec4000641fddf2ecd8746730fe",
+      "hash_sha256": "58f4ed7149110218908940b018dcd73ae8881836f68aadfe875eab8eb9914c1d"
+    }
+  },
+  "repos_info": {
+    "etag": "\"b8aad6cd4aef6874e4d87b817d297d88f5484cd3b87dd709898354e743ca91f2\"",
+    "data": "H4sIAFOUTGcC/62YbW/bNhCA/4rhr4st23HSxEDRbc2QfWjaoE1QIMMgUNLZYk2RHEnZcwT/9/FNb+7S2Rm/xBHFe3g83R3vWA1xNlwMrq6nF9eT86v52WBIWQaxHR1+jterm08fv3z5evXL0LxCBZjx32gGYnQPSJDRw/3o7v3NZ/N6WRIS13PuGCOYriaXk1n0wnwu8AYpM3uJiAQ9wrYUhH6uhoStMD3gGBmr2HT+5vpyPru86qv7aNV9//H3XxOrLtJ0JOJSEPM2V4rLRRS5UTleYZWXSSlBpIwqoGqcsiIqowb+bvN2bjAr4UFuFTN0iOTY4xxDM2V0oHiuCnKoSkfmYPaSEcK2GhOfuFTUSLYY/eqVGP1URUzloK2op+ytObBUp6tlpSr7o+1oQVLbVEB2MsrLacWMt+yrSABnjlgmMhWYK8zo6Sr2pA2OiRWi+Bm9DqelLcVod7q0lTLisNGuebq8E6siG2Ppbu80SQFvtMVfyTyQN0i14zbaH/VkGxj6N95g2Mb1G14mBKf262AFMcoKG9c24vcnxcVLaSSD5rNpCNVJyHq+WHcSy4+3ao19zFKG+l92OwoWWZJBrmEXhmhAlflbx1eqQxglTCDFRJglesSq92hXVICKMCtZkk2bjAWyuCXZI0TKEo6LgePIFiibkKNlkfhcGXCRNuaQlHhFAcJwG1oVNSk+EYimeaAFaljl/3OeglaBHAW5LJsQloQhaoHI0qpI5sgfeSoOprHhG1gfL2AZDm9gLV6JUL5iVRfWV2q4PoyV9psw/BoWVTWeILoq0SoQv6HV5ccKPYMIprvHudxLlcBJGTD1tsBOqZMEU7/lHVZSIfnulLYGKgqsQtnGsvoBFXIB4/ffLWIGgmX3GtY7PdxB5V+FPKn+dTXfBYVzVwOLqp84UnltMI4EhLKXYUVVgnQZOR6PqxyQK3sKEKHyhUPZM1ekuS59g1CrGqZrwAIp28AsreqZ7mgIQ1kY7Rta40shy52e73BddIeBW1KPXWACUjEa6ps2uN4qlCm8xOlRvd5xC/WI1TuJaQpnSDcn2nEVTrGOCy3uT7kESKgjzqD01lABvukjgEId0DWsinyPkQEnbBcuD3Z4NmUIQEo3nEgZ8mwym4+m09Fs8jC9WMyvFvPJk206efbdrNloMjWzzq8XUzeLlzJ/edLkzVN9cvh96H9PakXNZu3RKfMO4ucWsDgSkBLtna9viRs9NvT/9dU5K4DraqltqiV+Nk/nk375lLKSGqua4S1Sutg/GKzrLqPL/U7lrgTIkYxdLtHjSpTgx7hg3yBVB6NtNusNb/EaH4jbAq9t/a0wlmmpGx1zsdO+cd18V9ECC8HqG0O/aZ+ts46gxqGE9IYYB+p30xBnZus4BSrB3mnq3tx6BSej8/Gke6F6+/FxcAsUBCKDe3thMvjgBAcbP1Xy7G9/A3l7/6EG/Djm/OIy6i7Z3pfe3aSXD7fk29PXi+enh/XbobmPQebezxxNa+0erWWxjBUUnPTva7eQ+EIrNl0kWy51I/NXiUXPNopxnBrD//GnftpgiRNMsNr1r4fcjYj7Dh1rejvWfuUnZLBEJVGxaykNqEDYehUHUeDmU1fD3oXTmZunUG/IZIauugI7X23fE+Itsbe3HAWPXZAqtgZaXwpTUFu9h55Ddcv0eny6/wc1JBrvdhcAAA=="
+  }
+}
